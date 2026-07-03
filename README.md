@@ -21,4 +21,7 @@ Este repositorio fue creado como parte de una práctica académica para aprender
 - Crear ramas de trabajo.
 - Subir cambios a GitHub.
 - Crear un Pull Request.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8329a31a247b553130106ade9f20c0be2a2f529c
