@@ -25,3 +25,15 @@ Este repositorio fue creado como parte de una práctica académica para aprender
 
 =======
 >>>>>>> 8329a31a247b553130106ade9f20c0be2a2f529c
+
+
+## Herramientas utilizadas
+
+- Git
+- GitHub
+- Visual Studio Code o editor de texto
+- Navegador web
+
+## Importancia de GitHub en la formación profesional
+
+GitHub es importante porque permite organizar proyectos, controlar versiones, evidenciar avances y colaborar con otros desarrolladores.
